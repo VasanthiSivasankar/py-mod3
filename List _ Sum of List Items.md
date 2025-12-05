@@ -10,8 +10,8 @@ To write a Python program that calculates the **sum of all elements** in a list.
 
 ## 🧾 Program
 ```
-Developed by: Preethi J
-Register no: 212223220080
+Developed by: VASANTHI SIVASANKAR
+Register no: 212223040234
 ```
 ```
 L=[153,147,124,102] 
